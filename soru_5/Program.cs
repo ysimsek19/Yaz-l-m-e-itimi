@@ -29,7 +29,6 @@ namespace soru_5
             {
                 Console.WriteLine("100 den büyük not girilemez");
             }
-
         }
     }
 }

@@ -3,15 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "soru_1", "soru1\soru_1.csproj", "{ABEF0F4B-FB22-4188-B686-C12F7A41641B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "soru_1", "soru1\soru_1.csproj", "{ABEF0F4B-FB22-4188-B686-C12F7A41641B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "soru_2", "soru_2\soru_2.csproj", "{B4CABDB0-AF44-46E6-A8AB-CE8B1BE9C234}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "soru_2", "soru_2\soru_2.csproj", "{B4CABDB0-AF44-46E6-A8AB-CE8B1BE9C234}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "soru_3", "soru_3\soru_3.csproj", "{A0A14803-8C10-450C-8370-3882B1EC09AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "soru_3", "soru_3\soru_3.csproj", "{A0A14803-8C10-450C-8370-3882B1EC09AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "soru_4", "soru_4\soru_4.csproj", "{54C7C919-3D70-412F-A6E3-8220F0F6D13F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "soru_4", "soru_4\soru_4.csproj", "{54C7C919-3D70-412F-A6E3-8220F0F6D13F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "soru_5", "soru_5\soru_5.csproj", "{7F23F969-06B7-458B-97C0-317DBCAE5AEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "soru_5", "soru_5\soru_5.csproj", "{7F23F969-06B7-458B-97C0-317DBCAE5AEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "soru_6", "soru6\soru_6.csproj", "{008DE2D4-978E-40D6-A57D-18DD6868CE41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "soru_8", "soru7\soru_8.csproj", "{99D0A109-6604-4845-9245-1CC0F9BB9CE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "soru_9", "soru9\soru_9.csproj", "{E88E907B-E220-4AC9-A9C2-3FAD4E21DFBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "soru_10", "soru10\soru_10.csproj", "{B220ABE9-C6E4-404D-AA77-89974FEED1E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "soru_7", "soru_7\soru_7.csproj", "{F14A4EFE-5260-4B4F-B370-A7BDF4A8F340}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +49,26 @@ Global
 		{7F23F969-06B7-458B-97C0-317DBCAE5AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F23F969-06B7-458B-97C0-317DBCAE5AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F23F969-06B7-458B-97C0-317DBCAE5AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{008DE2D4-978E-40D6-A57D-18DD6868CE41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{008DE2D4-978E-40D6-A57D-18DD6868CE41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{008DE2D4-978E-40D6-A57D-18DD6868CE41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{008DE2D4-978E-40D6-A57D-18DD6868CE41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99D0A109-6604-4845-9245-1CC0F9BB9CE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D0A109-6604-4845-9245-1CC0F9BB9CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D0A109-6604-4845-9245-1CC0F9BB9CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D0A109-6604-4845-9245-1CC0F9BB9CE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E88E907B-E220-4AC9-A9C2-3FAD4E21DFBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E88E907B-E220-4AC9-A9C2-3FAD4E21DFBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E88E907B-E220-4AC9-A9C2-3FAD4E21DFBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E88E907B-E220-4AC9-A9C2-3FAD4E21DFBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B220ABE9-C6E4-404D-AA77-89974FEED1E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B220ABE9-C6E4-404D-AA77-89974FEED1E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B220ABE9-C6E4-404D-AA77-89974FEED1E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B220ABE9-C6E4-404D-AA77-89974FEED1E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F14A4EFE-5260-4B4F-B370-A7BDF4A8F340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F14A4EFE-5260-4B4F-B370-A7BDF4A8F340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F14A4EFE-5260-4B4F-B370-A7BDF4A8F340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F14A4EFE-5260-4B4F-B370-A7BDF4A8F340}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
