@@ -20,10 +20,10 @@ namespace soru_5
             {
                 if (sonuc >= 50)
                 {
-                    Console.WriteLine("GEÇTİNİZ");
+                    Console.WriteLine("GEÇTİNİZ.  Notunuz"+" " + sonuc);
                 }
                 else 
-                    Console.WriteLine("KALDINIZ");
+                    Console.WriteLine("KALDINIZ" + " " + sonuc);
             }
             else
             {
