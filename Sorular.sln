@@ -13,15 +13,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "soru_4", "soru_4\soru_4.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "soru_5", "soru_5\soru_5.csproj", "{7F23F969-06B7-458B-97C0-317DBCAE5AEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "soru_6", "soru6\soru_6.csproj", "{008DE2D4-978E-40D6-A57D-18DD6868CE41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "soru_6", "soru6\soru_6.csproj", "{008DE2D4-978E-40D6-A57D-18DD6868CE41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "soru_8", "soru7\soru_8.csproj", "{99D0A109-6604-4845-9245-1CC0F9BB9CE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "soru_8", "soru7\soru_8.csproj", "{99D0A109-6604-4845-9245-1CC0F9BB9CE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "soru_9", "soru9\soru_9.csproj", "{E88E907B-E220-4AC9-A9C2-3FAD4E21DFBB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "soru_9", "soru9\soru_9.csproj", "{E88E907B-E220-4AC9-A9C2-3FAD4E21DFBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "soru_10", "soru10\soru_10.csproj", "{B220ABE9-C6E4-404D-AA77-89974FEED1E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "soru_10", "soru10\soru_10.csproj", "{B220ABE9-C6E4-404D-AA77-89974FEED1E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "soru_7", "soru_7\soru_7.csproj", "{F14A4EFE-5260-4B4F-B370-A7BDF4A8F340}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "soru_7", "soru_7\soru_7.csproj", "{F14A4EFE-5260-4B4F-B370-A7BDF4A8F340}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PozitifTekSayiCarpımı", "PozitifTekSayiCarpımı\PozitifTekSayiCarpımı.csproj", "{E6CC2F8B-BFDB-449E-A5F5-9E3BD17C3E7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "digDortgenGenislikHesab", "digDortgenGenislikHesab\digDortgenGenislikHesab.csproj", "{6342C967-3C14-4302-BF91-B78E682ABF64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hesabMakinesi", "hesabMakinesi\hesabMakinesi.csproj", "{98AD33D8-0E92-4F65-84BC-C75E0FD670D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +75,18 @@ Global
 		{F14A4EFE-5260-4B4F-B370-A7BDF4A8F340}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F14A4EFE-5260-4B4F-B370-A7BDF4A8F340}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F14A4EFE-5260-4B4F-B370-A7BDF4A8F340}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6CC2F8B-BFDB-449E-A5F5-9E3BD17C3E7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6CC2F8B-BFDB-449E-A5F5-9E3BD17C3E7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6CC2F8B-BFDB-449E-A5F5-9E3BD17C3E7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6CC2F8B-BFDB-449E-A5F5-9E3BD17C3E7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6342C967-3C14-4302-BF91-B78E682ABF64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6342C967-3C14-4302-BF91-B78E682ABF64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6342C967-3C14-4302-BF91-B78E682ABF64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6342C967-3C14-4302-BF91-B78E682ABF64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98AD33D8-0E92-4F65-84BC-C75E0FD670D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98AD33D8-0E92-4F65-84BC-C75E0FD670D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98AD33D8-0E92-4F65-84BC-C75E0FD670D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98AD33D8-0E92-4F65-84BC-C75E0FD670D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
