@@ -7,6 +7,7 @@ namespace soru_5
         static void Main(string[] args)
         {
             Console.WriteLine("Vize Notunuzu Giriniz: ");
+            
             int vize = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("Final Notunuzu Giriniz: ");
